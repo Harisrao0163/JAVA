@@ -1,14 +1,14 @@
 import java.util.Arrays;
 
-   public class Arrayss
-    {
-    public static void main(String[] args){ 
-        int[] numbers = {1,2,3,6,9,8,4,5};
-        System.out.println(numbers.length);
-       Arrays.sort(numbers); // this will sortout all the numbers. 
+  //  public class Arrayss
+  //   {
+  //   public static void main(String[] args){ 
+  //       int[] numbers = {1,2,3,6,9,8,4,5};
+  //       System.out.println(numbers.length);
+  //      Arrays.sort(numbers); // this will sortout all the numbers. 
         
-        System.out.println(Arrays.toString(numbers));
-      }}
+  //       System.out.println(Arrays.toString(numbers));
+  //     }}
     // ...................Multidimentional Array.....................
     public class Arrayss {
     public static void main(String[] args){
