@@ -9,7 +9,7 @@ import java.util.Arrays;
         
         System.out.println(Arrays.toString(numbers));
       }}
-    
+    // ...................Multidimentional Array.....................
     public class Arrayss {
     public static void main(String[] args){
      int[][] numbers = new int[2][3];
